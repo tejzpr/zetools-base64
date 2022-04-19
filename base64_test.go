@@ -3,9 +3,10 @@ package base64
 import (
 	"reflect"
 	"testing"
-	"zetools/commands"
 
-	"github.com/urfave/cli/v2"
+	"github.com/tejzpr/zetools/commands"
+
+	cli "github.com/tejzpr/zcli/v2"
 )
 
 func Test_base64Command_Name(t *testing.T) {

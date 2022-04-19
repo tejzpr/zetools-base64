@@ -3,9 +3,10 @@ package base64
 import (
 	b64 "encoding/base64"
 	"fmt"
-	"zetools/commands"
 
-	"github.com/urfave/cli/v2"
+	"github.com/tejzpr/zetools/commands"
+
+	cli "github.com/tejzpr/zcli/v2"
 )
 
 func init() {
