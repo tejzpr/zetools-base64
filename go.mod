@@ -1,4 +1,4 @@
-module zetools-base64
+module github.com/tejzpr/zetools-base64
 
 go 1.18
 
