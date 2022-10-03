@@ -4,7 +4,7 @@ import (
 	b64 "encoding/base64"
 	"fmt"
 
-	"github.com/tejzpr/zetools/commands"
+	"github.com/tejzpr/commands-zetools"
 
 	cli "github.com/urfave/cli/v2"
 )
